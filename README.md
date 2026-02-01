@@ -8,6 +8,7 @@ O projeto está organizado para seguir boas práticas de automação e ser facil
 
 ## 📁 Estrutura do Projeto
 
+```
 automacao-selenium-saucedemo
 │
 ├─ pom.xml
@@ -26,7 +27,7 @@ automacao-selenium-saucedemo
 │ │ └─ steps → Steps do Cucumber
 │ └─ resources
 │ └─ features → Arquivos .feature com os cenários
-
+```
 
 ---
 
